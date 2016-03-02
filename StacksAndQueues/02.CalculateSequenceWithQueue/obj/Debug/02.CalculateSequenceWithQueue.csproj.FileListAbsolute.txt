@@ -1,0 +1,6 @@
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.exe.config
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.pdb
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.pdb
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache

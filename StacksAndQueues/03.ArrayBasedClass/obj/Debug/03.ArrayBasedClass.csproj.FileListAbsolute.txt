@@ -1,0 +1,6 @@
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\03.ArrayBasedClass\bin\Debug\03.ArrayBasedClass.exe.config
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\03.ArrayBasedClass\obj\Debug\03.ArrayBasedClass.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\03.ArrayBasedClass\bin\Debug\03.ArrayBasedClass.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\03.ArrayBasedClass\bin\Debug\03.ArrayBasedClass.pdb
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\03.ArrayBasedClass\obj\Debug\03.ArrayBasedClass.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\03.ArrayBasedClass\obj\Debug\03.ArrayBasedClass.pdb

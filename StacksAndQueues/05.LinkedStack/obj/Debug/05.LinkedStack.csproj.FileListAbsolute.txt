@@ -1,0 +1,5 @@
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.exe.config
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\05.LinkedStack\bin\Debug\05.LinkedStack.pdb
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\05.LinkedStack\obj\Debug\05.LinkedStack.pdb

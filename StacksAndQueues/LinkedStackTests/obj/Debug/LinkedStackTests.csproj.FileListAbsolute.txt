@@ -1,0 +1,8 @@
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\LinkedStackTests\bin\Debug\LinkedStackTests.dll
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\LinkedStackTests\bin\Debug\LinkedStackTests.pdb
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\LinkedStackTests\bin\Debug\05.LinkedStack.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\LinkedStackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\LinkedStackTests\bin\Debug\05.LinkedStack.pdb
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\LinkedStackTests\obj\Debug\LinkedStackTests.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\LinkedStackTests\obj\Debug\LinkedStackTests.dll
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\LinkedStackTests\obj\Debug\LinkedStackTests.pdb

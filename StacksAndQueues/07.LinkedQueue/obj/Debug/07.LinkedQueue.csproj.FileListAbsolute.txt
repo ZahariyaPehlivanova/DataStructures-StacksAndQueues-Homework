@@ -1,0 +1,5 @@
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\07.LinkedQueue\bin\Debug\07.LinkedQueue.exe.config
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\07.LinkedQueue\bin\Debug\07.LinkedQueue.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\07.LinkedQueue\bin\Debug\07.LinkedQueue.pdb
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\07.LinkedQueue\obj\Debug\07.LinkedQueue.exe
+D:\SoftUni\VisualStudio\DataStructures\StacksAndQueues\07.LinkedQueue\obj\Debug\07.LinkedQueue.pdb
